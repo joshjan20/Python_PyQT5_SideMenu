@@ -1,10 +1,8 @@
-```markdown
 # PyQt5 Sidebar Navigation
 
 I recently tried out Qt with Python, and it’s been a truly exciting experience! This project is a simple PyQt5 application that showcases a sidebar navigation interface. It allows users to seamlessly navigate between different pages—such as home, dashboard, orders, products, and customers—using intuitive buttons. Additionally, I’ve included a search functionality to enhance user interaction.
 
 ![Alt text](result.png)
-![Output Screenshot](result.png)
 
 ## Features
 
@@ -78,4 +76,3 @@ I recently tried out Qt with Python, and it’s been a truly exciting experience
 ## Acknowledgments
 
 - Thanks to the PyQt5 community for their support and resources.
-```
